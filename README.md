@@ -1,3 +1,5 @@
+Please acknowledge the use of these scripts in any publications which make use of them.
+
 This algebraic machine learning was created from the following mathematical result:
 
 https://arxiv.org/abs/2310.00290
